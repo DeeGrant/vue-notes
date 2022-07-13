@@ -9,7 +9,13 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "vue": "^3.2.37"
+    "@apollo/client": "^3.6.9",
+    "@nhost/apollo": "^0.5.21",
+    "@nhost/vue": "^0.3.5",
+    "@vue/apollo-composable": "^4.0.0-alpha.18",
+    "graphql": "^16.5.0",
+    "vue": "^3.2.37",
+    "vue-router": "^4.1.2"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^3.0.0",
